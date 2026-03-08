@@ -1,5 +1,6 @@
-
-<img src="https://github.com/user-attachments/assets/a8a40943-b672-4185-bc2e-115eca1ca934" width="100%">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a8a40943-b672-4185-bc2e-115eca1ca934" width="900">
+</p>
 
 ## Hi, I'm Eduardo 👋
 
