@@ -1,5 +1,6 @@
-
-<img width="1536" height="638" alt="ChatGPT Image 7 mar 2026, 10_56_44 p m" src="https://github.com/user-attachments/assets/65fb4e01-a652-4c47-954f-53b6a404388e" />
+<p align="center">
+<img src="https://github.com/user-attachments/assets/e81da0d0-fbbf-4360-93e4-179d70549bea" width="900">
+</p>
 
 ## Hi, I'm Eduardo 👋
 
