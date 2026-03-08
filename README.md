@@ -1,5 +1,5 @@
 
-<img width="300" height="1200" alt="ChatGPT Image 7 mar 2026, 10_56_44 p m" src="https://github.com/user-attachments/assets/a8a40943-b672-4185-bc2e-115eca1ca934" />
+<img width="1300" height="1200" alt="ChatGPT Image 7 mar 2026, 10_56_44 p m" src="https://github.com/user-attachments/assets/a8a40943-b672-4185-bc2e-115eca1ca934" />
 Hi, I'm Eduardo 👋
 
 Data Analyst focused on business intelligence, operational analytics, customer experience and revenue analysis.
