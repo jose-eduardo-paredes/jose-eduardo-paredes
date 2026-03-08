@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Eduardo 👋
 
-<!--
-**jose-eduardo-paredes/jose-eduardo-paredes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on business intelligence, operational analytics, customer experience and revenue analysis.
 
-Here are some ideas to get you started:
+I work with data to understand business problems, generate insights and support decision-making through analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### Inventory Optimization Analysis
+Simulation of inventory demand and stock allocation to analyze operational efficiency in a retail scenario.
+
+### Customer Experience Analysis
+Exploration of customer satisfaction metrics to identify drivers impacting service performance.
+
+### Revenue Analysis (coming soon)
+
+### Business Profitability Analysis (coming soon)
+
+---
+
+## Tools & Technologies
+- Python
+- SQL
+- Power BI
+- Data Analysis
+- Business Intelligence
+
+---
+
+## Portfolio
+Business case studies and dashboards available here:
+
+➡ Data Analytics Portfolio (Notion)
